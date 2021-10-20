@@ -17,14 +17,4 @@ class Contestant {
       contestantCount: count
     });
   }
-
- /*  update(){
-    var contestantIndex = "contestants/contestant" + this.index;
-    database.ref(contestantIndex).set({
-      name:this.name,
-      answer:this.answer
-    });
-  } */
-
- 
 }

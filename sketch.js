@@ -25,6 +25,6 @@ function draw(){
   }
   if(gameState === 1){
     clear();
-//call the play function
+    quiz.play();
   }
 }
